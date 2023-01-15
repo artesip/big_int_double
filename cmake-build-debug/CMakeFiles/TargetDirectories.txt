@@ -1,0 +1,3 @@
+F:/University/mfti_c++/cmake-build-debug/CMakeFiles/mfti_c__.dir
+F:/University/mfti_c++/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/University/mfti_c++/cmake-build-debug/CMakeFiles/rebuild_cache.dir

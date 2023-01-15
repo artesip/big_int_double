@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/University/mfti_c++/big_int.cpp
+big_int.h
+F:/University/mfti_c++/big_int.h
+
+F:/University/mfti_c++/big_int.h
+iostream
+-
+vector
+-
+string
+-
+cstdint
+-
+cmath
+-
+
